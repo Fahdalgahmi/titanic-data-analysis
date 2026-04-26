@@ -18,3 +18,9 @@ This project analyzes the Titanic dataset using Python and pandas.
 ## Files
 - titanic_analysis.py
 - cleaned_titanic.csv
+
+## Key Insights
+
+- Females had a significantly higher survival rate than males
+- First-class passengers had higher survival rates compared to lower classes
+- Age and family size had an impact on survival probability
